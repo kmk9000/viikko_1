@@ -1,0 +1,4 @@
+background-image: url(../images/penguin_warrior.png);
+background-repeat: no-repeat; /* Prevent tiling */
+background-position: center; /* Center the image */
+background-size: cover; /* Cover entire viewport (or 'contain' for full visibility) */
